@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">UsingStrings</string>
+    <string name="msg3">This is my Text View 3</string>
+    <string name="msg4">This is my Text View 4</string>
+</resources>
